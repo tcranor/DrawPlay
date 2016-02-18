@@ -16,7 +16,7 @@ public class MyDrawing extends JPanel {
 	public void paintComponent(Graphics g) {
 		cat.draw(g, 50, 50);
 	}
-	
+	// i added this comment to test pushings
 	/**
 	 * @param args
 	 */
